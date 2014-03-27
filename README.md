@@ -1,7 +1,10 @@
 mrturno-profile-map
 ===================
 
-Descripción de los archivos XML para poder ser indexados en la plataforma MrTurno.com. Similar al sitemap.
+Descripción de los archivos XML para poder ser indexados en la plataforma MrTurno.com. 
+
+Pretende ser una especie de sitemap para profesionales medicos e instituciones médicas.
+
 
 Se licencia bajo Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) http://creativecommons.org/licenses/by-sa/4.0/
 
