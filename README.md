@@ -3,7 +3,7 @@ mrturno-profile-map
 
 Descripción de los archivos XML para poder ser indexados en la plataforma MrTurno.com. Similar al sitemap.
 
-Se licencia bajo Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Se licencia bajo Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) http://creativecommons.org/licenses/by-sa/4.0/
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
