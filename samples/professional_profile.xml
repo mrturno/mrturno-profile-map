@@ -7,8 +7,8 @@
 		<specialty>Medico Cirujano</specialty>
 		<specialty>Infectólogo</specialty>
 	</specialties>
-	<locations>
-		<location>
+	<institutions>
+		<institution>
 			<name>Consultorio privado</name>
 			<address>
 				<addressLine>Av Belgrano 555 Dpto 1</addressLine>
@@ -38,6 +38,37 @@
 				<insurance>APM</insurance>
 				<insurance>Boreal Osimrra</insurance>
 			</insurances>
-		</location>
-	</locations>
+		</institution>
+		<institution>
+			<name>Clinica A</name>
+			<address>
+				<addressLine>Av Belgrano 555 Dpto 1</addressLine>
+				<city>Godoy Cruz</city>
+				<state>Mendoza</state>
+				<country>Argentina</country>
+			</address>
+			<phoneNumber>0261 555666884</phoneNumber>
+			<email>info@info.com</email>
+			<website>info@info.com</website>
+			<schedules>
+				<schedule>
+					<!-- MO, TU, WE, TH, FR, SA, SU -->
+					<!-- LU, MA, MI, JU, VI, SA, DO -->
+					<weekday>MO</weekday>
+					<startHour>16:00</startHour>
+					<endHour>20:00</endHour>
+				</schedule>
+				<schedule>
+					<weekday>WE</weekday>
+					<startHour>16:00</startHour>
+					<endHour>20:00</endHour>
+				</schedule>
+			</schedules>
+			<insurances>
+				<insurance>ACA Salud</insurance>
+				<insurance>APM</insurance>
+				<insurance>Boreal Osimrra</insurance>
+			</insurances>
+		</institution>
+	</institutions>
 </professionalProfile>

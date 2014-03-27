@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<institutionProfile version="1">
+	<name></name>
+	<legalName></legalName>
+	<vatNumber></vatNumber>
+	<address>
+		<addressLine>COLON 567</addressLine>
+		<district>MENDOZA</district>
+		<state>MENDOZA</state>
+		<country>ARGENTINA</country>
+		<postalCode>5500</postalCode>
+	</address>
+	<phoneNumbers>
+		<phoneNumber>4299599</phoneNumber>
+	</phoneNumbers>
+	<email></email>
+	<website></website>
+	<professionals>
+		<professional matricula="2844">
+			<salutation>Dr.</salutation>
+			<firstName>Gregory</firstName>
+			<lastName>House</lastName>
+			<specialties>
+				<specialty>ENDOSCOPIA GASTROENTEROLOGICA</specialty>
+				<specialty>GASTROENTEROLOGIA</specialty>
+			</specialties>
+			<insurances>
+				<insurance>ACA Salud</insurance>
+				<insurance>APM</insurance>
+				<insurance>Boreal Osimrra</insurance>
+			</insurances>
+			<schedules>
+				<schedule>
+					<!-- MO, TU, WE, TH, FR, SA, SU -->
+					<!-- LU, MA, MI, JU, VI, SA, DO -->
+					<weekday>MO</weekday>
+					<startHour>16:00</startHour>
+					<endHour>20:00</endHour>
+				</schedule>
+				<schedule>
+					<weekday>WE</weekday>
+					<startHour>16:00</startHour>
+					<endHour>20:00</endHour>
+				</schedule>
+			</schedules>
+		</professional>
+	</professionals>
+</institutionProfile>
