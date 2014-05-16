@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <institutionProfile version="1">
-	<name></name>
+	<name><![CDATA[test]]></name>
+	<description><![CDATA[test]]></description>
 	<legalName></legalName>
 	<vatNumber></vatNumber>
 	<address>
-		<addressLine>COLON 567</addressLine>
+		<addressLine><![CDATA[test]]></addressLine>
 		<district>MENDOZA</district>
 		<state>MENDOZA</state>
 		<country>ARGENTINA</country>
@@ -15,19 +16,20 @@
 	</phoneNumbers>
 	<email></email>
 	<website></website>
+	<turnWebsite></turnWebsite>
 	<professionals>
 		<professional matricula="2844">
 			<salutation>Dr.</salutation>
 			<firstName>Gregory</firstName>
 			<lastName>House</lastName>
 			<specialties>
-				<specialty>ENDOSCOPIA GASTROENTEROLOGICA</specialty>
-				<specialty>GASTROENTEROLOGIA</specialty>
+				<specialty><![CDATA[test]]></specialty>
+				<specialty><![CDATA[test]]></specialty>
 			</specialties>
 			<insurances>
-				<insurance>ACA Salud</insurance>
-				<insurance>APM</insurance>
-				<insurance>Boreal Osimrra</insurance>
+				<insurance><![CDATA[test]]></insurance>
+				<insurance><![CDATA[test]]></insurance>
+				<insurance><![CDATA[test]]></insurance>
 			</insurances>
 			<schedules>
 				<schedule>
